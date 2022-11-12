@@ -159,7 +159,7 @@ footer {
 
 .firstPage {
     border-top: 1px solid transparent;
-    background: url(/components/Rectangle\ 1.png);
+    background: url(./components/Rectangle.png);
 }
 
 .disable {
